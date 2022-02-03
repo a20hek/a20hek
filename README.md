@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Ajithkumar</h1>
-<h3 align="center">A developer and designer, with a passionate love for building products.</h3>
+<h3 align="center">A developer and designer, with a fondness for building products.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a20hek&label=Profile%20views&color=0e75b6&style=flat" alt="a20hek" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a20hek" alt="a20hek" /></a> </p>
 
 - 👯 I’m looking to collaborate on **interesting ideas.**
 
@@ -11,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://a20hek.com/blog](https://a20hek.com/blog)
 
-- 📫 How to reach me **abhishek@a20hek.com**
+- 📫 You can reach out to me **abhishek@a20hek.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
