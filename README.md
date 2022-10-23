@@ -4,10 +4,12 @@
 ### <p>noob at⏳:</p>
 #### <div> Anchor Lang <div>Rust <div>Three.js</div> </div> </div>
 
-
+<details>
+<summary>Languages</summary>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a20hek&layout=compact&langs_count=10&theme=dark" />
 </div>
+</details>
 
 
 
