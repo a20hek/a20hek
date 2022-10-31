@@ -1,11 +1,28 @@
 ## breaking and learning stuff🛠️
-### <br/> <p>not a noob at🗿:</p>
-#### <div> Next.js <div>React Native <div>AWS Amplify <div>Firebase</div> </div> </div></div> 
-### <p>noob at⏳:</p>
-#### <div> Anchor Lang <div>Rust <div>Three.js</div> </div> </div>
 
 <details>
-<summary>Languages</summary>
+<summary>
+  <h4>
+  not a noob at🔧:
+  </h4>
+  </summary>
+<div> ⚙️ Next.js </div> <div>⚙️ React Native </div> <div>⚙️ AWS Amplify </div> <div>⚙️ Firebase</div>
+</details>
+
+<details>
+<summary>
+  <h4>
+  exploring♟️:
+  </h4>
+  </summary>
+<div> ⏳Solana ecosystem </div> <div>⏳three.js </div> <div>⏳core product design </div>
+</details>
+
+
+<details>
+<summary>  <h4>
+  languages:
+  </h4></summary>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a20hek&layout=compact&langs_count=10&theme=dark" />
 </div>
