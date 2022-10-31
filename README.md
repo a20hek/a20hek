@@ -31,7 +31,7 @@
 
 
 ### <br/> <p>contact🤝🏽:</p>
-#### <div>mail: abbhishekk27@gmail.com // abhwshek@gmail.com <div> <a href="https://chess.com/wtfabhishek">chesscom  </a>  <div> <a href="https://abhishek27.com">portfolio  </a> </div> </div></div>
+#### <div>mail: abbhishekk27@gmail.com // abhwshek@gmail.com <div> <a href="https://chess.com/wtfabhishek">chesscom  </a>  <div> <a href="https://abhishek27.com">proof of work  </a> </div> </div></div>
 
 
 ---
