@@ -4,8 +4,7 @@
 
 <details>
   <summary>currently dabbling with </summary>
-  
-  three.js and rust
+solana
 </details>
 
 
