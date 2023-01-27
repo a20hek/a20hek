@@ -1,6 +1,6 @@
 ## breaking and learning stuff🛠️
 
-#### Next.js | React Native dev 
+#### frontend dev (web/mobile), product aficianado
 
 <details>
   <summary>currently dabbling with </summary>
