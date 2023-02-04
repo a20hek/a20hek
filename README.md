@@ -1,6 +1,6 @@
 ## breaking and learning stuff🛠️
 
-#### frontend dev (web/mobile), product aficianado
+#### frontend dev (web/mobile), product designer, product aficianado
 
 <details>
   <summary>currently dabbling with </summary>
