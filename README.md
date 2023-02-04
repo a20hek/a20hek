@@ -1,4 +1,4 @@
-## breaking and learning stuff🛠️
+## breaking stuff, learning to move faster🛠️
 
 #### frontend dev (web/mobile), product designer, product aficianado
 
