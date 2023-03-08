@@ -1,7 +1,7 @@
 ## breaking stuff, learning to move faster🛠️
 
 
-#### member @SuperteamDAO, frontend engg @deplanDAO
+#### member @SuperteamDAO, frontend engg @de-planDAO
 
 loves frontend, product design and product thinking
 
