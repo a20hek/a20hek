@@ -1,6 +1,9 @@
 ## breaking stuff, learning to move faster🛠️
 
-#### frontend dev (web/mobile), product designer, product aficianado
+
+#### member @SuperteamDAO, frontend engg @deplanDAO
+
+loves frontend, product design and product thinking
 
 <details>
   <summary>currently dabbling with </summary>
