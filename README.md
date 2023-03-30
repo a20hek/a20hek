@@ -1,10 +1,24 @@
 ## breaking stuff, learning to move faster🛠️
 
-loves frontend, product design and product thinking
+i mostly write frontend; delves into the backend land when required
+
 
 <details>
-  <summary>currently dabbling with </summary>
-solana
+  <summary>📈leveling up </summary>
+  ◽advanced react  <br/>
+ ◽typescript  <br/>
+  ◽server-side TS  <br/>
+  ◽product design  <br/> 
+
+</details>
+
+<details>
+  <summary>☕exploring </summary>
+ ◽product thinking  <br/>
+  ◽rust  <br/>
+  ◽solana  <br/>
+ ◽product design    
+
 </details>
 
 
