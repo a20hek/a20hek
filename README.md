@@ -1,6 +1,6 @@
 ## breaking stuff, learning to move faster🛠️
 
-i mostly write frontend; delves into the backend land when required
+dabbling in the art of crafting user interfaces with my frontend skills, while also venturing into the realm of backend development on a regular basis
 
 
 <details>
