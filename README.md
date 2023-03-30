@@ -16,8 +16,7 @@ dabbling in the art of crafting user interfaces with my frontend skills, while a
   <summary>☕exploring </summary>
  ◽product thinking  <br/>
   ◽rust  <br/>
-  ◽solana  <br/>
- ◽product design    
+  ◽solana
 
 </details>
 
