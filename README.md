@@ -1,4 +1,4 @@
-## breaking stuff, learning to move faster🛠️
+## breaking stuff, learning to move faster 🛠️
 
 dabbling in the art of crafting user interfaces with my frontend skills, while also venturing into the realm of backend development on a regular basis
 
