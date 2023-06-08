@@ -23,7 +23,7 @@ dabbling in the art of crafting user interfaces with my frontend skills, while a
 
 
 
-<div>mail: abbhishekk27@gmail.com // abhwshek@gmail.com  <div> <a href="https://abhishek27.com">✨proof of work  </a> </div> </div></div>
+<div>mail: abbhishekk27@gmail.com // abhwshek@gmail.com  <div> <a href="https://abhwshek.com">✨proof of work  </a> </div> </div></div>
 
 
 ---
