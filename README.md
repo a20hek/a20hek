@@ -1,22 +1,20 @@
 ## breaking stuff, learning to move faster 🛠️
 
-dabbling in the art of crafting user interfaces with my frontend skills, while also venturing into the realm of backend development on a regular basis
+tinkering with product, code, design
 
 
 <details>
   <summary>📈leveling up </summary>
   ◽advanced react  <br/>
- ◽typescript  <br/>
+  ◽typescript  <br/>
   ◽server-side TS  <br/>
   ◽product design  <br/> 
-
 </details>
 
 <details>
   <summary>☕exploring </summary>
- ◽product thinking  <br/>
+  ◽product thinking  <br/>
   ◽rust  <br/>
-  ◽solana
 
 </details>
 
