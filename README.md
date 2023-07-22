@@ -5,9 +5,8 @@ tinkering with product, code, design
 
 <details>
   <summary>📈leveling up </summary>
-  ◽advanced react  <br/>
+  ◽react native  <br/>
   ◽typescript  <br/>
-  ◽server-side TS  <br/>
   ◽product design  <br/> 
 </details>
 
@@ -15,6 +14,7 @@ tinkering with product, code, design
   <summary>☕exploring </summary>
   ◽product thinking  <br/>
   ◽rust  <br/>
+  ◽ML  <br/>
 
 </details>
 
