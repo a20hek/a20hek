@@ -2,10 +2,6 @@
 
 tinkering with product, code, design
 
-mobile app lead @de-planDAO
-fullstack @superteamDAO earn
-
-
 <details>
   <summary>📈leveling up </summary>
   ◽typescript  <br/>
