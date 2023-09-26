@@ -2,18 +2,20 @@
 
 tinkering with product, code, design
 
+mobile app lead @de-planDAO
+fullstack @superteamDAO earn
+
 
 <details>
   <summary>📈leveling up </summary>
-  ◽react native  <br/>
   ◽typescript  <br/>
-  ◽product design  <br/> 
+  ◽code design patterns  <br/> 
 </details>
 
 <details>
   <summary>☕exploring </summary>
   ◽product thinking  <br/>
-  ◽rust  <br/>
+  ◽go  <br/>
   ◽ML  <br/>
 
 </details>
