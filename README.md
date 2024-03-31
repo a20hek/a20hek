@@ -19,7 +19,6 @@ tinkering with product, code, design
 
 
 
-<div>mail: abbhishekk27@gmail.com // abhwshek@gmail.com  <div> <a href="https://abhwshek.com">✨proof of work  </a> </div> </div></div>
-
+<div> <a href="https://abhwshek.com">✨proof of work  </a> </div> </div>
 
 ---
